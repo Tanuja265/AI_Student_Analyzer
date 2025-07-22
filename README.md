@@ -36,7 +36,6 @@ It demonstrates how to clean data, detect top scorers, explore subject-wise dist
 project1/
 ├── analyzer.py            # Main Python file
 ├── marks.csv              # Sample student data
-├── output_graphs/         # Saved plots (optional)
 ```
 
 ---
