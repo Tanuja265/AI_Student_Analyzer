@@ -59,12 +59,9 @@ python analyzer.py
 
 ## 📊 Sample Visuals
 
-You can add screenshots of your plots here:
+<img src="outcome1.png" width="300"/>
+<img src="outcome2.png" width="300"/>
 
-- ✅ Bar chart of grade distribution  
-- 📉 Subject-wise average scores  
-- 🔥 Heatmap of subject correlations  
-- 📦 Boxplots to detect outliers  
 
 ---
 
